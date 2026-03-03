@@ -20,7 +20,7 @@ python -m venv .venv
 ```
 
 ```bash
-pip install opencv-python numpy pillow
+pip install -r requirements.txt
 ```
 
 ## Run
